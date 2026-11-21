@@ -15,7 +15,7 @@ Aspiring Forward Deployed Engineer passionate about technology, software develop
 ## 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,c,cpp,cs,php,go,rust,ruby,kotlin,swift,dart,bash" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,c,php,go,rust,ruby,swift,dart,bash" />
 </p>
 
 ## ⚙️ Frameworks & Technologies
