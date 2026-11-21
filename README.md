@@ -1,5 +1,4 @@
-
-# 👋 Hi, I'm Vanthala Simhadri Babu
+IM MADHU KUMAR
 
 ### 🚀 Forward Deployed Engineer | FDE Student
 
